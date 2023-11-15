@@ -1,6 +1,6 @@
 ###  Dev em formação.
  
- Olá, me chamo Débora tenho 22 anos e possuo um conhecimento avançado em informática. Atualmente estou a estudar desenvolvimento de software voltado para Back End na Cubos Academy, língua estrangeira inglês no ICL(Instituto conhecimento liberta) e começarei o ensino superior de engenharia de software em janeiro de 2024. A tecnologia é minha paixão.
+ Olá, me chamo Débora tenho 22 anos e possuo um conhecimento avançado em informática. Atualmente estou a estudar desenvolvimento de software voltado para Back End na Cubos Academy, língua estrangeira inglês no ICL(Instituto conhecimento liberta) e começarei o ensino superior de engenharia de software em janeiro de 2024 na Jala University(EUA). A tecnologia é minha paixão.
 <div> <center>
 
 
